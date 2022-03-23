@@ -962,6 +962,7 @@ ul {
 .stats .container {
   display: flex;
   justify-content: center;
+  algin-items: center;
 }
 .stats .box {
   background-color: #eee;
