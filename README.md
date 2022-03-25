@@ -8,7 +8,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 
 ### :grey_question: Done :
-![95%](https://progress-bar.dev/95/?title=Done)
+![100%](https://progress-bar.dev/100/?title=Done)
 
 ## You Can Browse The Site From 
 https://usefmohamed.github.io/ElzeroWebSchool.github.io/
