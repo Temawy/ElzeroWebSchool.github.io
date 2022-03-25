@@ -419,9 +419,11 @@ ul {
   font-size: 17px;
   font-weight: bold;
 }
+.articles .card .info i {
+  color: var(--main-color);
+}
 .articles .card:hover .info i {
   cursor: pointer;
-  color: var(--main-color-alt);
   font-size: 1.3em;
   /* animation */
   animation: go-left 0.6s linear;
